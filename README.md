@@ -48,6 +48,18 @@ A curated list of ***Video Generation*** papers and resources.
 *Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin and Honglak Lee.*<br>
 *ICLR 2017.* [[PDF]](https://openreview.net/pdf?id=rkEFLFqee) [[Official TensorFlow]](https://github.com/rubenvillegas/iclr2017mcnet)
 
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning.**<br>
+*William Lotter, Gabriel Kreiman, David D. Cox.*<br>
+*ICLR 2017.* [[PDF]](https://arxiv.org/pdf/1605.08104.pdf) [[Official Keras]](https://github.com/coxlab/prednet)
+
+**Flexible Spatio-Temporal Networks for Video Prediction.**<br>
+*Chaochao Lu, Michael Hirsch, Bernhard Scholkopf.*<br>
+*CVPR 2017.* [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Flexible_Spatio-Temporal_Networks_CVPR_2017_paper.pdf)
+
+**Dual Motion GAN for Future-Flow Embedded Video Prediction.**<br>
+*Xiaodan Liang, Lisa Lee, Wei Dai, Eric P. Xing.*<br>
+*ICCV 2017.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Liang_Dual_Motion_GAN_ICCV_2017_paper.pdf)
+
 **Structure Preserving Video Prediction.**<br>
 *Jingwei Xu, Bingbing Ni, Zefan Li, Shuo Cheng, Xiaokang Yang.*<br>
 *CVPR 2018.* [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)
