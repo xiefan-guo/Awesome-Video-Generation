@@ -6,7 +6,24 @@ A curated list of ***Video Generation*** papers and resources.
 
 ## Contents
 
-![id2vid](https://github.com/NVIDIA/vid2vid/blob/master/imgs/teaser.gif)
+- [Unconditional Video Generation](#unconditional-video-generation)
+- [Video prediction](#video-prediction)
 
-<img src='https://github.com/NVIDIA/vid2vid/blob/master/imgs/teaser.gif'/>
+
+
+## Unconditional Video Generation
+
+**Generating Videos with Scene Dynamics.**<br>
+*Carl Vondrick, Hamed Pirsiavash, Antonio Torralba.*<br>
+NeurIPS 2016. [[PDF]](http://www.cs.columbia.edu/~vondrick/tinyvideo/paper.pdf) [[Project]](http://www.cs.columbia.edu/~vondrick/tinyvideo/) [[Offical Lua]](https://github.com/cvondrick/videogan) [[Unoffical PyTorch]](https://github.com/batsa003/videogan)
+
+**Temporal Generative Adversarial Nets with Singular Value Clipping.**<br>
+*Masaki Saito, Eiichi Matsumoto, Shunta Saito.*<br>
+ICCV 2017. [[PDF]](https://arxiv.org/pdf/1611.06624.pdf) [[Project]](https://pfnet-research.github.io/tgan/) [[Offical Chainer]](https://github.com/pfnet-research/tgan) [[Unoffical PyTorch]](https://github.com/proceduralia/tgan-pytorch)
+
+
+
+
+
+## Video prediction
 
