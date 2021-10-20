@@ -7,7 +7,7 @@ A curated list of ***Video Generation*** papers and resources.
 ## Contents
 
 - [Unconditional Video Generation](#unconditional-video-generation)
-- [Video prediction](#video-prediction)
+- [Video Prediction](#video-prediction)
 
 
 
@@ -25,5 +25,5 @@ ICCV 2017. [[PDF]](https://arxiv.org/pdf/1611.06624.pdf) [[Project]](https://pfn
 
 
 
-## Video prediction
+## Video Prediction
 
