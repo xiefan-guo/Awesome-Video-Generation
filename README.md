@@ -40,6 +40,54 @@ A curated list of ***Video Generation*** papers and resources.
 
 ## Video Prediction
 
+**Deep multi-scale video prediction beyond mean square error.**<br>
+*Michael Mathieu, Camille Couprie, Yann LeCun.*<br>
+*ICLR 2016.* [[PDF]](https://arxiv.org/pdf/1511.05440.pdf) [[Project]](https://cs.nyu.edu/~mathieu/iclr2016.html) [[Official Lua]](https://github.com/coupriec/VideoPredictionICLR2016) [[Dataset]](http://perso.esiee.fr/~coupriec/MathieuICLR16TestCode.zip)
+
+**Decomposing Motion and Content for Natural Video Sequence Prediction.**<br>
+*Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin and Honglak Lee.*<br>
+*ICLR 2017.* [[PDF]](https://openreview.net/pdf?id=rkEFLFqee) [[Official TensorFlow]](https://github.com/rubenvillegas/iclr2017mcnet)
+
+**Structure Preserving Video Prediction.**<br>
+*Jingwei Xu, Bingbing Ni, Zefan Li, Shuo Cheng, Xiaokang Yang.*<br>
+*CVPR 2018.* [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structure_Preserving_Video_CVPR_2018_paper.pdf)
+
+**Folded Recurrent Neural Networks for Future Video Prediction.**<br>
+*Oliu, Marc and Selva, Javier and Escalera, Sergio.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Marc_Oliu_Folded_Recurrent_Neural_ECCV_2018_paper.pdf) [[Official TensorFlow]](https://github.com/moliusimon/frnn)
+
+**Flow-Grounded Spatial-Temporal Video Prediction from Still Images.**<br>
+*Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yijun_Li_Flow-Grounded_Spatial-Temporal_Video_ECCV_2018_paper.pdf) [[Official Lua]](https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction)
+
+**DYAN: A Dynamical Atoms-Based Network For Video Prediction.**<br>
+*Liu, Wenqian and Sharma, Abhishek and Camps, Octavia and Sznaier, Mario.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf) [[Official PyTorch]](https://github.com/liuem607/DYAN)
+
+**SDC-Net: Video prediction using spatially-displaced convolution.**<br>
+*Reda, Fitsum A. and Liu, Guilin and Shih, Kevin J. and Kirby, Robert and Barker, Jon and Tarjan, David and Tao, Andrew and Catanzaro, Bryan.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Fitsum_Reda_SDC-Net_Video_prediction_ECCV_2018_paper.pdf)
+
+**ContextVP: Fully Context-Aware Video Prediction.**<br>
+*Byeon, Wonmin and Wang, Qin and Kumar Srivastava, Rupesh and Koumoutsakos, Petros.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf)
+
+**Compositional Video Prediction.**<br>
+*Yufei Ye, Maneesh Singh, Abhinav Gupta, Shubham Tulsiani.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) [[Project]](https://judyye.github.io/CVP/) [[Official PyTorch]](https://github.com/JudyYe/CVP)
+
+**Improved Conditional VRNNs for Video Prediction.**<br>
+*Lluis Castrejon, Nicolas Ballas, Aaron Courville.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf)
+
+**Disentangling Propagation and Generation for Video Prediction.**<br>
+*Hang Gao, Huazhe Xu, Qi-Zhi Cai, Ruth Wang, Fisher Yu, Trevor Darrell.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf)
+
+**SME-Net: Sparse Motion Estimation for Parametric Video Prediction Through Reinforcement Learning.**<br>
+*Yung-Han Ho, Chuan-Yuan Cho, Wen-Hsiao Peng, Guo-Lun Jin.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf) [[Official TensorFlow]](https://github.com/hectorho0409/SME_release)
+
 **Probabilistic Video Prediction From Noisy Data With a Posterior Confidence.**<br>
 *Yunbo Wang, Jiajun Wu, Mingsheng Long, Joshua B. Tenenbaum.*<br>
 *CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Probabilistic_Video_Prediction_From_Noisy_Data_With_a_Posterior_Confidence_CVPR_2020_paper.pdf)
