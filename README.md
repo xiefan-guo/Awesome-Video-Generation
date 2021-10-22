@@ -10,7 +10,10 @@ A curated list of ***Video Generation*** papers and resources.
   - [Contents](#contents)
   - [Unconditional Video Generation](#unconditional-video-generation)
   - [Video Prediction](#video-prediction)
+  - [Image-to-Video](#image-to-video)
   - [Video-to-Video](#video-to-video)
+  - [Video Generation](#video-generation)
+  - [Talking Head](#talking-head)
 
 ## Unconditional Video Generation
 
@@ -144,11 +147,41 @@ A curated list of ***Video Generation*** papers and resources.
 *Moitreya Chatterjee, Narendra Ahuja, Anoop Cherian.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chatterjee_A_Hierarchical_Variational_Neural_Uncertainty_Model_for_Stochastic_Video_Prediction_ICCV_2021_paper.pdf)
 
+## Image-to-Video
+
+**Pose Guided Human Video Generation.**<br>
+*Yang, Ceyuan and Wang, Zhe and Zhu, Xinge and Huang, Chen and Shi, Jianping and Lin, Dahua.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Ceyuan_Yang_Pose_Guided_Human_ECCV_2018_paper.pdf)
+
+**Learning to Forecast and Refine Residual Motion for Image-to-Video Generation.**<br>
+*Zhao, Long and Peng, Xi and Tian, Yu and Kapadia, Mubbasir and Metaxas, Dimitris.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf) [[Project]](https://garyzhao.github.io/FRGAN/) [[Official PyTorch]](https://github.com/garyzhao/FRGAN)
+
+**DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
+*Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
+*ECCV 2020.* [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf) [[Official PyTorch]](https://github.com/zhangzjn/DTVNet)
+
 ## Video-to-Video
 
 **Video-to-Video Synthesis.**<br>
 *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro.*<br>
 *NeurIPS 2018.* [[PDF]](https://tcwang0509.github.io/vid2vid/paper_vid2vid.pdf) [[Project]](https://tcwang0509.github.io/vid2vid/) [[Official PyTorch]](https://github.com/NVIDIA/vid2vid) [[Video(short)]](https://www.youtube.com/watch?v=5zlcXTCpQqM) [[Video(full)]](https://www.youtube.com/watch?v=GrP_aOSXt5U)
+
+**Recycle-GAN: Unsupervised Video Retargeting.**<br>
+*Aayush Bansal, Shugao Ma, Deva Ramanan, and Yaser Sheikh.*<br>
+*ECCV 2018.* [[PDF]](https://arxiv.org/pdf/1808.05174.pdf) [[Project]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/) [[Official PyTorch]](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)
+
+**Video-to-Video Translation with Global Temporal Consistency.**<br>
+*Xingxing Wei, Jun Zhu, Sitong Feng, Hang Su.*<br>
+*ACM MM 2018.* [[PDF]](https://ml.cs.tsinghua.edu.cn/~jun/pub/video2video.pdf )
+
+**Unsupervised Video-to-Video Translation.**<br>
+*Dina Bashkirova, Ben Usman, Kate Saenko.*<br>
+*ICLR 2019.* [[PDF]](https://arxiv.org/pdf/1806.03698.pdf) [[Official TensorFlow]](https://github.com/dbash/CycleGAN3D)
+
+**Mocycle-GAN: Unpaired Video-to-Video Translation.**<br>
+*Yang Chen, Yingwei Pan, Ting Yao, Xinmei Tian, Tao Mei.*<br>
+*ACM MM 2019.* [[PDF]](https://arxiv.org/pdf/1908.09514.pdf)
 
 **Few-shot Video-to-Video Synthesis.**<br>
 *Ting-Chun Wang, Ming-Yu Liu, Andrew Tao, Guilin Liu, Jan Kautz, Bryan Catanzaro.*<br>
@@ -158,4 +191,45 @@ A curated list of ***Video Generation*** papers and resources.
 *Arun Mallya, Ting-Chun Wang, Karan Sapra, Ming-Yu Liu.*<br>
 *ECCV 2020.* [[PDF]](https://nvlabs.github.io/wc-vid2vid/files/wc-vid2vid.pdf) [[Project]](https://nvlabs.github.io/wc-vid2vid/) [[Official PyTorch]](https://github.com/NVlabs/imaginaire)
 
+**HyperCon: Image-to-Video Model Transfer for Video-to-Video Translation Tasks.**<br>
+*Ryan Szeto, Mostafa El-Khamy, Jungwon Lee, Jason J. Corso.*<br>
+*WACV 2021.* [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Szeto_HyperCon_Image-to-Video_Model_Transfer_for_Video-to-Video_Translation_Tasks_WACV_2021_paper.pdf)
 
+**Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning.**<br>
+*Kangning Liu, Shuhang Gu, Andres Romero, Radu Timofte.*<br>
+*WACV 2021.* [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Unsupervised_Multimodal_Video-to-Video_Translation_via_Self-Supervised_Learning_WACV_2021_paper.pdf)
+
+## Video Generation
+
+**Deep Video Generation, Prediction and Completion of Human Action Sequences.**<br>
+*Cai, Haoye and Bai, Chunyan and Tai, Yu-Wing and Tang, Chi-Keung.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf) [[Project]](https://iamacewhite.github.io/supp/)
+
+**X2Face: A network for controlling face generation using images, audio, and pose codes.**<br>
+*Olivia Wiles, A. Sophia Koepke, Andrew Zisserman.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.pdf) [[Official PyTorch]](https://github.com/oawiles/X2Face)
+
+**Probabilistic Video Generation using Holistic Attribute Control.**<br>
+*He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf)
+
+**Animating Arbitrary Objects via Deep Motion Transfer.**<br>
+*Aliaksandr Siarohin, Stephane Lathuiliere, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
+*CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/monkey-net)
+
+**Everybody Dance Now.**<br>
+*Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf) [[Project]](https://carolineec.github.io/everybody_dance_now/) [[Official PyTorch]](https://github.com/carolineec/EverybodyDanceNow) [[Dataset]](https://carolineec.github.io/everybody_dance_now/#data)
+
+**First Order Motion Model for Image Animation.**<br>
+*liaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
+*NeurIPS 2019.* [[PDF]](https://arxiv.org/pdf/2003.00196.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/first-order-model)
+
+
+
+
+## Talking Head
+
+**One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**
+*Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf?)
