@@ -33,6 +33,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Yaohui Wang, Piotr Bilinski, Francois Bremond, Antitza Dantcheva.*<br>
 *CVPR 2020.* [[PDF]](https://arxiv.org/pdf/1912.05523.pdf) [[Project]](https://wyhsirius.github.io/G3AN/) [[Official PyTorch]](https://github.com/wyhsirius/g3an-project)
 
+**Temporal Shift GAN for Large Scale Video Generation.**<br>
+*Andres Munoz, Mohammadreza Zolfaghari, Max Argus, Thomas Brox.*<br>
+*WACV 2021.* [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Munoz_Temporal_Shift_GAN_for_Large_Scale_Video_Generation_WACV_2021_paper.pdf)
+
 **A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
 *Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
 *ICLR 2021.* [[PDF]](https://arxiv.org/pdf/2104.15069.pdf) [[Project]](https://bluer555.github.io/MoCoGAN-HD/) [[Official PyTorch]](https://github.com/snap-research/MoCoGAN-HD) [[Talk]](https://papertalk.org/papertalks/29015) [[Slide]](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2810-a_good_image.pdf)
@@ -40,9 +44,6 @@ A curated list of ***Video Generation*** papers and resources.
 **InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation.**<br>
 *Yaohui Wang, François Brémond, Antitza Dantcheva.*<br>
 *arXiv 2021.* [[PDF]](https://arxiv.org/pdf/2101.03049.pdf) [[Project]](https://wyhsirius.github.io/InMoDeGAN/) [[Official PyTorch]](https://github.com/wyhsirius/InMoDeGAN-project)
-
-
-
 
 ## Video Prediction
 
@@ -194,11 +195,19 @@ A curated list of ***Video Generation*** papers and resources.
 
 **Stochastic Image-to-Video Synthesis Using cINNs.**<br>
 *Michael Dorkenwald, Timo Milbich, Andreas Blattmann, Robin Rombach, Konstantinos G. Derpanis, Bjorn Ommer.*<br>
-*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf) [[Project]](https://compvis.github.io/image2video-synthesis-using-cINNs/) [[Official PyTorch]](https://github.com/CompVis/image2video-synthesis-using-cINNs)
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf) [[Project]](https://compvis.github.io/image2video-synthesis-using-cINNs/) [[Official PyTorch]](https://github.com/CompVis/image2video-synthesis-using-cINNs) [[Official PyTorch]](https://github.com/CompVis/interactive-image2video-synthesis)
 
 **Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
 *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Bjorn Ommer.*<br>
-*CVPR 2021.* [[PDF]]()
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Blattmann_Understanding_Object_Dynamics_for_Interactive_Image-to-Video_Synthesis_CVPR_2021_paper.pdf) [[Project]](https://compvis.github.io/interactive-image2video-synthesis/)
+
+**Animating Pictures With Eulerian Motion Fields.**<br>
+*Aleksander Holynski, Brian L. Curless, Steven M. Seitz, Richard Szeliski.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf) [[Project]](https://eulerian.cs.washington.edu/)
+
+**Pose-Guided Human Animation From a Single Image in the Wild.**<br>
+*Jae Shin Yoon, Lingjie Liu, Vladislav Golyanik, Kripasindhu Sarkar, Hyun Soo Park, Christian Theobalt.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yoon_Pose-Guided_Human_Animation_From_a_Single_Image_in_the_Wild_CVPR_2021_paper.pdf)
 
 **iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
 *Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Bjorn Ommer.*<br>
@@ -280,6 +289,18 @@ A curated list of ***Video Generation*** papers and resources.
 *Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Chen Change Loy.*<br>
 *IJCV 2020.* [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-020-01334-x.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
 
+**Playable Video Generation.**<br>
+*Willi Menapace, Stephane Lathuiliere, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Menapace_Playable_Video_Generation_CVPR_2021_paper.pdf)
+
+**Deep Animation Video Interpolation in the Wild.**<br>
+*Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris Metaxas, Chen Change Loy, Ziwei Liu.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf) [[Official PyTorch]](https://github.com/lisiyao21/AnimeInterp/)
+
+**Motion Representations for Articulated Animation.**<br>
+*Aliaksandr Siarohin, Oliver J. Woodford, Jian Ren, Menglei Chai, Sergey Tulyakov.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Siarohin_Motion_Representations_for_Articulated_Animation_CVPR_2021_paper.pdf) [[Official PyTorch]](https://github.com/snap-research/articulated-animation)
+
 **Click To Move: Controlling Video Generation With Sparse Motion.**<br>
 *Pierfrancesco Ardino, Marco De Nadai, Bruno Lepri, Elisa Ricci, Stephane Lathuiliere.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ardino_Click_To_Move_Controlling_Video_Generation_With_Sparse_Motion_ICCV_2021_paper.pdf) [[Code]](https://github.com/PierfrancescoArdino/C2M)
@@ -297,6 +318,10 @@ A curated list of ***Video Generation*** papers and resources.
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
 *SIGGRAPH Asia 2020 and ToG 2020.* [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3414685.3417774) [[Project]](https://people.umass.edu/yangzhou/MakeItTalk/) [[Official PyTorch]](https://github.com/yzhou359/MakeItTalk) [[Video]](https://www.youtube.com/watch?v=OU6Ctzhpc6s)
+
+**Audio- and Gaze-Driven Facial Animation of Codec Avatars.**<br>
+*Alexander Richard, Colin Lea, Shugao Ma, Jurgen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
+*WACV 2021.* [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Richard_Audio-_and_Gaze-Driven_Facial_Animation_of_Codec_Avatars_WACV_2021_paper.pdf)
 
 **One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing.**<br>
 *Ting-Chun Wang, Arun Mallya, Ming-Yu Liu.*<br>
