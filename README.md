@@ -111,7 +111,7 @@ A curated list of ***Video Generation*** papers and resources.
 *ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Compositional_Video_Prediction_ICCV_2019_paper.pdf) [[Project]](https://judyye.github.io/CVP/) [[Official PyTorch]](https://github.com/JudyYe/CVP)
 
 **Improved Conditional VRNNs for Video Prediction.**<br>
-<!-- *Lluis Castrejon, Nicolas Ballas, Aaron Courville.*<br> -->
+*Lluis Castrejon, Nicolas Ballas, Aaron Courville.*<br>
 *ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Castrejon_Improved_Conditional_VRNNs_for_Video_Prediction_ICCV_2019_paper.pdf)
 
 **Disentangling Propagation and Generation for Video Prediction.**<br>
@@ -298,3 +298,22 @@ A curated list of ***Video Generation*** papers and resources.
 *Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br>
 *CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.pdf) [[Project]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [[Official PyTorch]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)
 
+**MeshTalk: 3D Face Animation From Speech Using Cross-Modality Disentanglement.**<br>
+*Alexander Richard, Michael Zollhofer, Yandong Wen, Fernando de la Torre, Yaser Sheikh.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Richard_MeshTalk_3D_Face_Animation_From_Speech_Using_Cross-Modality_Disentanglement_ICCV_2021_paper.pdf) [[Code]](https://github.com/facebookresearch/meshtalk)
+
+**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis.**<br>
+*Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf) [[Official PyTorch]](https://github.com/YudongGuo/AD-NeRF)
+
+**HeadGAN: One-Shot Neural Head Synthesis and Editing.**<br>
+*Michail Christos Doukas, Stefanos Zafeiriou, Viktoriia Sharmanska.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Doukas_HeadGAN_One-Shot_Neural_Head_Synthesis_and_Editing_ICCV_2021_paper.pdf) [[Project]](https://michaildoukas.github.io/HeadGAN/)
+
+**FACIAL: Synthesizing Dynamic Talking Face With Implicit Attribute Learning.**<br>
+*Chenxu Zhang, Yifan Zhao, Yifei Huang, Ming Zeng, Saifeng Ni, Madhukar Budagavi, Xiaohu Guo.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.pdf)
+
+**Learned Spatial Representations for Few-Shot Talking-Head Synthesis.**<br>
+*Moustafa Meshry, Saksham Suri, Larry S. Davis, Abhinav Shrivastava.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Meshry_Learned_Spatial_Representations_for_Few-Shot_Talking-Head_Synthesis_ICCV_2021_paper.pdf) 
