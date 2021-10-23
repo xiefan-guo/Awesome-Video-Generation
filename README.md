@@ -192,6 +192,18 @@ A curated list of ***Video Generation*** papers and resources.
 *Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
 *ECCV 2020.* [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf) [[Official PyTorch]](https://github.com/zhangzjn/DTVNet)
 
+**Stochastic Image-to-Video Synthesis Using cINNs.**<br>
+*Michael Dorkenwald, Timo Milbich, Andreas Blattmann, Robin Rombach, Konstantinos G. Derpanis, Bjorn Ommer.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf) [[Project]](https://compvis.github.io/image2video-synthesis-using-cINNs/) [[Official PyTorch]](https://github.com/CompVis/image2video-synthesis-using-cINNs)
+
+**Understanding Object Dynamics for Interactive Image-to-Video Synthesis.**<br>
+*Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Bjorn Ommer.*<br>
+*CVPR 2021.* [[PDF]]()
+
+**iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis.**<br>
+*Andreas Blattmann, Timo Milbich, Michael Dorkenwald, Bjorn Ommer.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Blattmann_iPOKE_Poking_a_Still_Image_for_Controlled_Stochastic_Video_Synthesis_ICCV_2021_paper.pdf) [[Project]](https://compvis.github.io/ipoke/) [[Offficial PyTorch]](https://github.com/CompVis/ipoke)
+
 ## Video-to-Video
 
 **Video-to-Video Synthesis.**<br>
@@ -271,6 +283,10 @@ A curated list of ***Video Generation*** papers and resources.
 **Click To Move: Controlling Video Generation With Sparse Motion.**<br>
 *Pierfrancesco Ardino, Marco De Nadai, Bruno Lepri, Elisa Ricci, Stephane Lathuiliere.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ardino_Click_To_Move_Controlling_Video_Generation_With_Sparse_Motion_ICCV_2021_paper.pdf) [[Code]](https://github.com/PierfrancescoArdino/C2M)
+
+**Sat2Vid: Street-View Panoramic Video Synthesis From a Single Satellite Image.**<br>
+*Zuoyue Li, Zhenqiang Li, Zhaopeng Cui, Rongjun Qin, Marc Pollefeys, Martin R. Oswald.*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf)
 
 ## Talking Head
 
