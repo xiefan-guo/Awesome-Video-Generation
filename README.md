@@ -33,6 +33,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Yaohui Wang, Piotr Bilinski, Francois Bremond, Antitza Dantcheva.*<br>
 *CVPR 2020.* [[PDF]](https://arxiv.org/pdf/1912.05523.pdf) [[Project]](https://wyhsirius.github.io/G3AN/) [[Official PyTorch]](https://github.com/wyhsirius/g3an-project)
 
+**Non-Adversarial Video Synthesis With Learned Priors.**<br>
+*Abhishek Aich, Akash Gupta, Rameswar Panda, Rakib Hyder, M. Salman Asif, Amit K. Roy-Chowdhury.*<br>
+*CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Aich_Non-Adversarial_Video_Synthesis_With_Learned_Priors_CVPR_2020_paper.pdf) [[Project]](https://abhishekaich27.github.io/navsynth.html) [[Official PyTorch]](https://github.com/abhishekaich27/Navsynth) [[Slide]](https://abhishekaich27.github.io/data/Project_pages/CVPR_2020/CVPR_2020_Navsynth_slides.pdf) [[Poster]](https://abhishekaich27.github.io/data/Project_pages/CVPR_2020/CVPR_2020_Navsynth_poster.pdf)
+
 **Temporal Shift GAN for Large Scale Video Generation.**<br>
 *Andres Munoz, Mohammadreza Zolfaghari, Max Argus, Thomas Brox.*<br>
 *WACV 2021.* [[PDF]](https://openaccess.thecvf.com/content/WACV2021/papers/Munoz_Temporal_Shift_GAN_for_Large_Scale_Video_Generation_WACV_2021_paper.pdf)
@@ -189,6 +193,14 @@ A curated list of ***Video Generation*** papers and resources.
 *Zhao, Long and Peng, Xi and Tian, Yu and Kapadia, Mubbasir and Metaxas, Dimitris.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Long_Zhao_Learning_to_Forecast_ECCV_2018_paper.pdf) [[Project]](https://garyzhao.github.io/FRGAN/) [[Official PyTorch]](https://github.com/garyzhao/FRGAN)
 
+**Video Generation From Single Semantic Label Map.**<br>
+*Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang.*<br>
+*CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Video_Generation_From_Single_Semantic_Label_Map_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
+
+**High-Quality Video Generation from Static Structural Annotations.**<br>
+*Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Chen Change Loy.*<br>
+*IJCV 2020.* [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-020-01334-x.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
+
 **DTVNet: Dynamic Time-lapse Video Generation via Single Still Image.**<br>
 *Jiangning Zhang, Chao Xu, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, Yunliang Jiang.*<br>
 *ECCV 2020.* [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500290.pdf) [[Official PyTorch]](https://github.com/zhangzjn/DTVNet)
@@ -273,10 +285,6 @@ A curated list of ***Video Generation*** papers and resources.
 *Aliaksandr Siarohin, Stephane Lathuiliere, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
 *CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/monkey-net)
 
-**Video Generation From Single Semantic Label Map.**<br>
-*Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang.*<br>
-*CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Video_Generation_From_Single_Semantic_Label_Map_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
-
 **Everybody Dance Now.**<br>
 *Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
 *ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf) [[Project]](https://carolineec.github.io/everybody_dance_now/) [[Official PyTorch]](https://github.com/carolineec/EverybodyDanceNow) [[Dataset]](https://carolineec.github.io/everybody_dance_now/#data)
@@ -284,10 +292,6 @@ A curated list of ***Video Generation*** papers and resources.
 **First Order Motion Model for Image Animation.**<br>
 *liaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
 *NeurIPS 2019.* [[PDF]](https://arxiv.org/pdf/2003.00196.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/first-order-model)
-
-**High-Quality Video Generation from Static Structural Annotations.**<br>
-*Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Chen Change Loy.*<br>
-*IJCV 2020.* [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-020-01334-x.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
 
 **Playable Video Generation.**<br>
 *Willi Menapace, Stephane Lathuiliere, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
@@ -318,6 +322,14 @@ A curated list of ***Video Generation*** papers and resources.
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
 *SIGGRAPH Asia 2020 and ToG 2020.* [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3414685.3417774) [[Project]](https://people.umass.edu/yangzhou/MakeItTalk/) [[Official PyTorch]](https://github.com/yzhou359/MakeItTalk) [[Video]](https://www.youtube.com/watch?v=OU6Ctzhpc6s)
+
+**DAVD-Net: Deep Audio-Aided Video Decompression of Talking Heads.**<br>
+*Xi Zhang, Xiaolin Wu, Xinliang Zhai, Xianye Ben, Chengjie Tu.*<br>
+*CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DAVD-Net_Deep_Audio-Aided_Video_Decompression_of_Talking_Heads_CVPR_2020_paper.pdf)
+
+**PuppeteerGAN: Arbitrary Portrait Animation With Semantic-Aware Appearance Transformation.**<br>
+*Zhuo Chen, Chaoyue Wang, Bo Yuan, Dacheng Tao.*<br>
+*CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_PuppeteerGAN_Arbitrary_Portrait_Animation_With_Semantic-Aware_Appearance_Transformation_CVPR_2020_paper.pdf)
 
 **Audio- and Gaze-Driven Facial Animation of Codec Avatars.**<br>
 *Alexander Richard, Colin Lea, Shugao Ma, Jurgen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
