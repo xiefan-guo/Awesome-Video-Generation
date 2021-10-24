@@ -246,7 +246,7 @@ A curated list of ***Video Generation*** papers and resources.
 *CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Video_Generation_From_Single_Semantic_Label_Map_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
 
 **Time Flies: Animating a Still Image With Time-Lapse Video As Reference.**<br>
-*Chia-Chi Cheng, Hung-Yu Chen, Wei-Chen Chiu.**<br>
+*Chia-Chi Cheng, Hung-Yu Chen, Wei-Chen Chiu.*<br>
 *CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Time_Flies_Animating_a_Still_Image_With_Time-Lapse_Video_As_CVPR_2020_paper.pdf) [[Official PyTorch]](https://github.com/angelwmab/Time-Flies)
 
 **Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings.**<br>
