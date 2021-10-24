@@ -123,9 +123,25 @@ A curated list of ***Video Generation*** papers and resources.
 *Byeon, Wonmin and Wang, Qin and Kumar Srivastava, Rupesh and Koumoutsakos, Petros.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Wonmin_Byeon_ContextVP_Fully_Context-Aware_ECCV_2018_paper.pdf)
 
+**Video Prediction via Selective Sampling.**<br>
+*Jingwei Xu, Bingbing Ni, Xiaokang Yang.*<br>
+*NeurIPS 2018.* [[PDF]](https://papers.nips.cc/paper/2018/file/ede7e2b6d13a41ddf9f4bdef84fdc737-Paper.pdf) [[Official Code]](https://github.com/xjwxjw/VPSS)
+
+**Learning to Decompose and Disentangle Representations for Video Prediction.**<br>
+*Jun-Ting Hsieh, Bingbin Liu, De-An Huang, Li F. Fei-Fei, Juan Carlos Niebles.*
+*NeurIPS 2018.* [[PDF]](https://papers.nips.cc/paper/2018/file/496e05e1aea0a9c4655800e8a7b9ea28-Paper.pdf) [[Official PyTorch]](https://github.com/jthsieh/DDPAE-video-prediction)
+
 **Stochastic Adversarial Video Prediction.**<br>
 *Alex X. Lee, Richard Zhang, Frederik Ebert, Pieter Abbeel, Chelsea Finn, Sergey Levine.*<br>
-*ICLR 2019.* [[PDF]](https://arxiv.org/pdf/1804.01523.pdf) [[Project]](https://alexlee-gk.github.io/video_prediction/) [[Official TensorFlow]](https://github.com/alexlee-gk/video_prediction)
+*ICLR 2019. (Reject)* [[PDF]](https://arxiv.org/pdf/1804.01523.pdf) [[Project]](https://alexlee-gk.github.io/video_prediction/) [[Official TensorFlow]](https://github.com/alexlee-gk/video_prediction)
+
+**Time-Agnostic Prediction: Predicting Predictable Video Frames.**<br>
+*Dinesh Jayaraman, Frederik Ebert, Alexei Efros, Sergey Levine.*<br>
+*ICLR 2019.* [[PDF]](https://openreview.net/pdf?id=SyzVb3CcFX)
+
+**Eidetic 3D LSTM: A Model for Video Prediction and Beyond.**<br>
+*Yunbo Wang, Lu Jiang, Ming-Hsuan Yang, Li-Jia Li, Mingsheng Long, Li Fei-Fei.*<br>
+*ICLR 2019.* [[PDF]](https://openreview.net/pdf?id=B1lKS2AqtX) [[Official TensorFlow]](https://github.com/google/e3d_lstm)
 
 **Compositional Video Prediction.**<br>
 *Yufei Ye, Maneesh Singh, Abhinav Gupta, Shubham Tulsiani.*<br>
@@ -142,6 +158,14 @@ A curated list of ***Video Generation*** papers and resources.
 **SME-Net: Sparse Motion Estimation for Parametric Video Prediction Through Reinforcement Learning.**<br>
 *Yung-Han Ho, Chuan-Yuan Cho, Wen-Hsiao Peng, Guo-Lun Jin.*<br>
 *ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ho_SME-Net_Sparse_Motion_Estimation_for_Parametric_Video_Prediction_Through_Reinforcement_ICCV_2019_paper.pdf) [[Official TensorFlow]](https://github.com/hectorho0409/SME_release)
+
+**Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction.**<br>
+*Yunji Kim, Seonghyeon Nam, In Cho, Seon Joo Kim.*<br>
+*NeurIPS 2019.* [[PDF]](https://papers.nips.cc/paper/2019/file/801272ee79cfde7fa5960571fee36b9b-Paper.pdf) [[Offical TensorFlow]](https://github.com/YunjiKim/Unsupervised-Keypoint-Learning-for-Guiding-Class-conditional-Video-Prediction)
+
+**High Fidelity Video Prediction with Large Stochastic Recurrent Neural Networks.**<br>
+*Ruben Villegas, Arkanath Pathak, Harini Kannan, Dumitru Erhan, Quoc V. Le, Honglak Lee.*<br>
+*NeurIPS 2019.* [[PDF]](https://papers.nips.cc/paper/2019/file/f7177163c833dff4b38fc8d2872f1ec6-Paper.pdf)
 
 **VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation.**<br>
 *Manoj Kumar, Mohammad Babaeizadeh, Dumitru Erhan, Chelsea Finn, Sergey Levine, Laurent Dinh, Durk Kingma.*<br>
@@ -171,6 +195,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Shruti Vyas, Yogesh S Rawat, Mubarak Shah.*<br>
 *ECCV 2020.* [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720426.pdf) [[Official Keras]](https://github.com/svyas23/cross-view-action)
 
+**Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction.**<br>
+*Wonkwang Lee, Whie Jung, Han Zhang, Ting Chen, Jing Yu Koh, Thomas Huang, Hyungsuk Yoon, Honglak Lee, Seunghoon Hong.*<br>
+*ICLR 2021.* [[PDF]](https://openreview.net/pdf?id=3RLN4EPMdYd) [[Project]](https://1konny.github.io/HVP/) [[Official PyTorch]](https://github.com/1Konny/HVP)
+
 **Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction.**<br>
 *Bohan Wu, Suraj Nair, Roberto Martin-Martin, Li Fei-Fei, Chelsea Finn.*<br>
 *CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Greedy_Hierarchical_Variational_Autoencoders_for_Large-Scale_Video_Prediction_CVPR_2021_paper.pdf) [[Project]](https://sites.google.com/view/ghvae)
@@ -198,6 +226,10 @@ A curated list of ***Video Generation*** papers and resources.
 **A Hierarchical Variational Neural Uncertainty Model for Stochastic Video Prediction.**<br>
 *Moitreya Chatterjee, Narendra Ahuja, Anoop Cherian.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chatterjee_A_Hierarchical_Variational_Neural_Uncertainty_Model_for_Stochastic_Video_Prediction_ICCV_2021_paper.pdf)
+
+**Autoregressive Latent Video Prediction with High-Fidelity Image Generator.**<br>
+*Anonymous authors.*<br>
+*Submitted to ICLR 2022.* [[PDF]](https://openreview.net/pdf?id=K-hiHQXEQog)
 
 ## Image-to-Video
 
@@ -333,6 +365,14 @@ A curated list of ***Video Generation*** papers and resources.
 *liaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
 *NeurIPS 2019.* [[PDF]](https://arxiv.org/pdf/2003.00196.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/first-order-model)
 
+**Unsupervised object-centric video generation and decomposition in 3D.**<br>
+*Paul Henderson, Christoph H. Lampert.*<br>
+*NeurIPS 2020.* [[PDF]](https://papers.nips.cc/paper/2020/file/20125fd9b2d43e340a35fb0278da235d-Paper.pdf) [[Official TensorFlow]](https://github.com/pmh47/o3v)
+
+**Diverse Video Generation using a Gaussian Process Trigger .**<br>
+*Gaurav Shrivastava, Abhinav Shrivastava.*<br>
+*ICLR 2021.* [[PDF]](https://openreview.net/pdf?id=Qm7R_SdqTpT) [[Project]](http://www.cs.umd.edu/~gauravsh/dvg.html) [[Official PyTorch]](https://github.com/shgaurav1/DVG)
+
 **Playable Video Generation.**<br>
 *Willi Menapace, Stephane Lathuiliere, Sergey Tulyakov, Aliaksandr Siarohin, Elisa Ricci.*<br>
 *CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Menapace_Playable_Video_Generation_CVPR_2021_paper.pdf)
@@ -345,6 +385,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Aliaksandr Siarohin, Oliver J. Woodford, Jian Ren, Menglei Chai, Sergey Tulyakov.*<br>
 *CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Siarohin_Motion_Representations_for_Articulated_Animation_CVPR_2021_paper.pdf) [[Official PyTorch]](https://github.com/snap-research/articulated-animation)
 
+**Generative Video Transformer: Can Objects be the Words?.**<br>
+*Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn.*<br>
+*ICML 2021.* [[PDF]](http://proceedings.mlr.press/v139/wu21h/wu21h.pdf) [[Official PyTorch]](https://github.com/ahn-ml/OCVT)
+
 **Click To Move: Controlling Video Generation With Sparse Motion.**<br>
 *Pierfrancesco Ardino, Marco De Nadai, Bruno Lepri, Elisa Ricci, Stephane Lathuiliere.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ardino_Click_To_Move_Controlling_Video_Generation_With_Sparse_Motion_ICCV_2021_paper.pdf) [[Code]](https://github.com/PierfrancescoArdino/C2M)
@@ -352,6 +396,7 @@ A curated list of ***Video Generation*** papers and resources.
 **Sat2Vid: Street-View Panoramic Video Synthesis From a Single Satellite Image.**<br>
 *Zuoyue Li, Zhenqiang Li, Zhaopeng Cui, Rongjun Qin, Marc Pollefeys, Martin R. Oswald.*<br>
 *ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf)
+
 
 ## Talking Head
 
