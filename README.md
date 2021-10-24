@@ -29,6 +29,22 @@ A curated list of ***Video Generation*** papers and resources.
 *Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz.*<br>
 *CVPR 2018.* [[PDF]](https://arxiv.org/pdf/1707.04993.pdf) [[Official PyTorch]](https://github.com/sergeytulyakov/mocogan)
 
+**Probabilistic Video Generation using Holistic Attribute Control.**<br>
+*He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf)
+
+**TwoStreamVAN: Improving Motion Modeling in Video Generation.**<br>
+*Ximeng Sun, Huijuan Xu, Kate Saenko.*<br>
+*WACV 2020.* [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Sun_TwoStreamVAN_Improving_Motion_Modeling_in_Video_Generation_WACV_2020_paper.pdf) [[Official PyTorch]](https://github.com/sunxm2357/TwoStreamVAN/) [[Video]](https://www.youtube.com/watch?v=mIG0WXolM7A&t=3110s)
+
+**Jointly Trained Image and Video Generation using Residual Vectors.**<br>
+*Yatin Dandi, Aniket Das, Soumye Singhal, Vinay Namboodiri, Piyush Rai.*<br>
+*WACV 2020.* [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Dandi_Jointly_Trained_Image_and_Video_Generation_using_Residual_Vectors_WACV_2020_paper.pdf) [[Video]](https://www.youtube.com/watch?v=3usvANd5vyE&t=182s)
+
+**ImaGINator: Conditional Spatio-Temporal GAN for Video Generation.**<br>
+*Yaohui WANG, Piotr Bilinski, Francois Bremond, Antitza Dantcheva.*<br>
+*WACV 2020.* [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/WANG_ImaGINator_Conditional_Spatio-Temporal_GAN_for_Video_Generation_WACV_2020_paper.pdf) [[Official PyTorch]](https://github.com/wyhsirius/ImaGINator) [[Video]](https://www.youtube.com/watch?v=0RYqfwR5YNk&t=3098s)
+
 **G³AN:  Disentangling appearance and motion for video generation.**<br>
 *Yaohui Wang, Piotr Bilinski, Francois Bremond, Antitza Dantcheva.*<br>
 *CVPR 2020.* [[PDF]](https://arxiv.org/pdf/1912.05523.pdf) [[Project]](https://wyhsirius.github.io/G3AN/) [[Official PyTorch]](https://github.com/wyhsirius/g3an-project)
@@ -197,6 +213,18 @@ A curated list of ***Video Generation*** papers and resources.
 *Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang.*<br>
 *CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Video_Generation_From_Single_Semantic_Label_Map_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
 
+**Time Flies: Animating a Still Image With Time-Lapse Video As Reference.**<br>
+*Chia-Chi Cheng, Hung-Yu Chen, Wei-Chen Chiu.**<br>
+*CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Time_Flies_Animating_a_Still_Image_With_Time-Lapse_Video_As_CVPR_2020_paper.pdf) [[Official PyTorch]](https://github.com/angelwmab/Time-Flies)
+
+**Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings.**<br>
+*Amy Zhao, Guha Balakrishnan, Kathleen M. Lewis, Fredo Durand, John V. Guttag, Adrian V. Dalca.*<br>
+*CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Painting_Many_Pasts_Synthesizing_Time_Lapse_Videos_of_Paintings_CVPR_2020_paper.pdf) [[Project]](https://xamyzhao.github.io/timecraft/) [[Official TensorFlow]](https://github.com/xamyzhao/timecraft)
+
+**Point-to-Point Video Generation.**<br>
+*Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun*<br>
+*ICCV 2021.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Point-to-Point_Video_Generation_ICCV_2019_paper.pdf) [[Official PyTorch]](https://github.com/yccyenchicheng/p2pvg)
+
 **High-Quality Video Generation from Static Structural Annotations.**<br>
 *Lu Sheng, Junting Pan, Jiaming Guo, Jing Shao, Chen Change Loy.*<br>
 *IJCV 2020.* [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-020-01334-x.pdf) [[Official PyTorch]](https://github.com/junting/seg2vid)
@@ -269,6 +297,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Zekun Hao, Xun Huang, Serge Belongie.*
 *CVPR 2018.* [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf) [[Official PyTorch]](https://github.com/zekunhao1995/ControllableVideoGen)
 
+**Attentive Semantic Video Generation Using Captions.**<br>
+*Tanya Marwah, Gaurav Mittal, Vineeth N. Balasubramanian.*<br>
+*ICCV 2017.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Marwah_Attentive_Semantic_Video_ICCV_2017_paper.pdf) [[Official TensorFlow]](https://github.com/Singularity42/cap2vid)
+
 **Deep Video Generation, Prediction and Completion of Human Action Sequences.**<br>
 *Cai, Haoye and Bai, Chunyan and Tai, Yu-Wing and Tang, Chi-Keung.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Chunyan_Bai_Deep_Video_Generation_ECCV_2018_paper.pdf) [[Project]](https://iamacewhite.github.io/supp/)
@@ -277,13 +309,21 @@ A curated list of ***Video Generation*** papers and resources.
 *Olivia Wiles, A. Sophia Koepke, Andrew Zisserman.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.pdf) [[Official PyTorch]](https://github.com/oawiles/X2Face)
 
-**Probabilistic Video Generation using Holistic Attribute Control.**<br>
-*He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
-*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf)
-
 **Animating Arbitrary Objects via Deep Motion Transfer.**<br>
 *Aliaksandr Siarohin, Stephane Lathuiliere, Sergey Tulyakov, Elisa Ricci, Nicu Sebe.*<br>
 *CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/AliaksandrSiarohin/monkey-net)
+
+**Event-Based High Dynamic Range Image and Very High Frame Rate Video Generation Using Conditional Generative Adversarial Networks.**<br>
+*Lin Wang, S. Mohammad Mostafavi I., Yo-Sung Ho, Kuk-Jin Yoon.*<br>
+*CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)
+
+**End-To-End Time-Lapse Video Synthesis From a Single Outdoor Image.**<br>
+*Seonghyeon Nam, Chongyang Ma, Menglei Chai, William Brendel, Ning Xu, Seon Joo Kim.*<br>
+*CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_End-To-End_Time-Lapse_Video_Synthesis_From_a_Single_Outdoor_Image_CVPR_2019_paper.pdf)
+
+**View-LSTM: Novel-View Video Synthesis Through View Decomposition.**<br>
+*Mohamed Ilyes Lakhal, Oswald Lanz, Andrea Cavallaro.*<br>
+*ICCV 2019.* [[PDFhttps://openaccess.thecvf.com/content_ICCV_2019/papers/Lakhal_View-LSTM_Novel-View_Video_Synthesis_Through_View_Decomposition_ICCV_2019_paper.pdf]]
 
 **Everybody Dance Now.**<br>
 *Caroline Chan, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros.*<br>
@@ -315,9 +355,17 @@ A curated list of ***Video Generation*** papers and resources.
 
 ## Talking Head
 
+**GANimation: Anatomically-aware Facial Animation from a Single Image.**<br>
+*Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.*<br>
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.pdf) [[Official Code]](https://github.com/ageitgey/face_recognition)
+
 **Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss.**<br>
 *Lele Chen, Ross K. Maddox, Zhiyao Duan, Chenliang Xu.*<br>
 *CVPR 2019.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.pdf) [[Official PyTorch]](https://github.com/lelechen63/ATVGnet)
+
+**Few-Shot Adversarial Learning of Realistic Neural Talking Head Models.**<br>
+*Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky.*<br>
+*ICCV 2019.* [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.pdf) [[PyTorch]](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models) [[Video]](https://www.youtube.com/watch?v=ByfFufRhuRc)
 
 **MakeItTalk: Speaker-Aware Talking-Head Animation.**<br>
 *Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li.*<br>
@@ -330,6 +378,10 @@ A curated list of ***Video Generation*** papers and resources.
 **PuppeteerGAN: Arbitrary Portrait Animation With Semantic-Aware Appearance Transformation.**<br>
 *Zhuo Chen, Chaoyue Wang, Bo Yuan, Dacheng Tao.*<br>
 *CVPR 2020.* [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_PuppeteerGAN_Arbitrary_Portrait_Animation_With_Semantic-Aware_Appearance_Transformation_CVPR_2020_paper.pdf)
+
+**Speech-driven Facial Animation using Cascaded GANs for Learning of Motion and Texture.**<br>
+*Dipanjan Das, Sandika Biswas, Sanjana Sinha, Brojeshwar Bhowmick.*<br>
+*ECCV 2020.* [[PDF]]
 
 **Audio- and Gaze-Driven Facial Animation of Codec Avatars.**<br>
 *Alexander Richard, Colin Lea, Shugao Ma, Jurgen Gall, Fernando de la Torre, Yaser Sheikh.*<br>
@@ -345,7 +397,7 @@ A curated list of ***Video Generation*** papers and resources.
 
 **Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset.**<br>
 *Zhimeng Zhang, Lincheng Li, Yu Ding, Changjie Fan.*<br>
-*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf) [[Official PyTorch]](https://github.com/MRzzm/HDTF) [[Dataset]](https://github.com/MRzzm/HDTF)
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf) [[Official PyTorch]](https://github.com/MRzzm/HDTF) [[HR-Dataset]](https://github.com/MRzzm/HDTF)
 
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation.**<br>
 *Hang Zhou, Yasheng Sun, Wayne Wu, Chen Change Loy, Xiaogang Wang, Ziwei Liu.*<br>
