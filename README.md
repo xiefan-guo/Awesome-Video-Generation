@@ -31,7 +31,7 @@ A curated list of ***Video Generation*** papers and resources.
 
 **Probabilistic Video Generation using Holistic Attribute Control.**<br>
 *He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
-*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf)
+*ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf) [[PyTorch]](https://github.com/yccyenchicheng/pytorch-VideoVAE)
 
 **TwoStreamVAN: Improving Motion Modeling in Video Generation.**<br>
 *Ximeng Sun, Huijuan Xu, Kate Saenko.*<br>
