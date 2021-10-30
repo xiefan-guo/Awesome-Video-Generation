@@ -65,6 +65,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Yaohui Wang, François Brémond, Antitza Dantcheva.*<br>
 *arXiv 2021.* [[PDF]](https://arxiv.org/pdf/2101.03049.pdf) [[Project]](https://wyhsirius.github.io/InMoDeGAN/) [[Official PyTorch]](https://github.com/wyhsirius/InMoDeGAN-project)
 
+**Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks.**<br>
+*Anonymous.*<br>
+*Submitted to ICLR 2022.* [[PDF]](https://openreview.net/pdf?id=Czsdv-S4-w9)
+
 ## Video Prediction
 
 **Unsupervised Learning for Physical Interaction through Video Prediction.**<br>
