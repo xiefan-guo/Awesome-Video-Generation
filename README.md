@@ -29,6 +29,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Sergey Tulyakov, Ming-Yu Liu, Xiaodong Yang, Jan Kautz.*<br>
 *CVPR 2018.* [[PDF]](https://arxiv.org/pdf/1707.04993.pdf) [[Official PyTorch]](https://github.com/sergeytulyakov/mocogan)
 
+**Stochastic Video Generation with a Learned Prior.**<br>
+*Emily Denton, Rob Fergus.*<br>
+*ICML 2018.* [[PDF]](http://proceedings.mlr.press/v80/denton18a/denton18a.pdf) [[Project]](https://sites.google.com/view/svglp/) [[PyTorch]](https://github.com/edenton/svg)
+
 **Probabilistic Video Generation using Holistic Attribute Control.**<br>
 *He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf) [[PyTorch]](https://github.com/yccyenchicheng/pytorch-VideoVAE)
@@ -64,6 +68,10 @@ A curated list of ***Video Generation*** papers and resources.
 **InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation.**<br>
 *Yaohui Wang, François Brémond, Antitza Dantcheva.*<br>
 *arXiv 2021.* [[PDF]](https://arxiv.org/pdf/2101.03049.pdf) [[Project]](https://wyhsirius.github.io/InMoDeGAN/) [[Official PyTorch]](https://github.com/wyhsirius/InMoDeGAN-project)
+
+**CCVS: Context-aware Controllable Video Synthesis.**<br>
+*Guillaume Le Moing, Jean Ponce, Cordelia Schmid.*<br>
+*NeurIPS 2021.* [[PDF]](https://arxiv.org/pdf/2107.08037.pdf) [[Project]](https://16lemoing.github.io/ccvs/) [[PyTorch]](https://github.com/16lemoing/ccvs)
 
 **Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks.**<br>
 *Anonymous.*<br>
