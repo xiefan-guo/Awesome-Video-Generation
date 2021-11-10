@@ -77,6 +77,18 @@ A curated list of ***Video Generation*** papers and resources.
 *Anonymous.*<br>
 *Submitted to ICLR 2022.* [[PDF]](https://openreview.net/pdf?id=Czsdv-S4-w9)
 
+**Latent Image Animator: Learning to animate image via latent space navigation.**<br>
+*Anonymous.*<br>
+*Submitted to ICLR 2022.* [[PDF]](https://openreview.net/pdf?id=7r6kDq0mK_)
+
+**TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation.**<br>
+*Anonymous.*<br>
+*Submitted to ICLR 2022.* [[PDF]](https://openreview.net/pdf?id=VDdDvnwFoyM)
+
+**Neural 3D Video Synthesis.**<br>
+*Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang Lv.*<br>
+*arXiv 2021.* [[PDF]](https://neural-3d-video.github.io/resources/paper.pdf) [[Project]](https://neural-3d-video.github.io/)
+
 ## Video Prediction
 
 **Unsupervised Learning for Physical Interaction through Video Prediction.**<br>
