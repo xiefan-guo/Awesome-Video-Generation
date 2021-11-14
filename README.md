@@ -37,6 +37,14 @@ A curated list of ***Video Generation*** papers and resources.
 *He, Jiawei and Lehrmann, Andreas and Marino, Joseph and Mori, Greg and Sigal, Leonid.*<br>
 *ECCV 2018.* [[PDF]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf) [[PyTorch]](https://github.com/yccyenchicheng/pytorch-VideoVAE)
 
+**Learning Dynamic Generator Model by Alternating Back-Propagation Through Time.**<br>
+*Jianwen Xie, Ruiqi Gao, Zilong Zheng, Song-Chun Zhu, Ying Nian Wu.*<br>
+*AAAI 2019.* [[PDF]](https://arxiv.org/pdf/1812.10587.pdf) [[Official TensorFlow]](https://github.com/jianwen-xie/Dynamic_generator)
+
+**Motion-Based Generator Model: Unsupervised Disentanglement of Appearance, Trackable and Intrackable Motions in Dynamic Patterns.**<br>
+*Jianwen Xie, Ruiqi Gao, Zilong Zheng, Song-Chun Zhu, Ying Nian Wu.*<br>
+*AAAI 2020.* [[PDF]](https://arxiv.org/pdf/1911.11294.pdf) [[Project]](http://www.stat.ucla.edu/~jxie/MotionBasedGenerator/MotionBasedGenerator.html)
+
 **TwoStreamVAN: Improving Motion Modeling in Video Generation.**<br>
 *Ximeng Sun, Huijuan Xu, Kate Saenko.*<br>
 *WACV 2020.* [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Sun_TwoStreamVAN_Improving_Motion_Modeling_in_Video_Generation_WACV_2020_paper.pdf) [[Official PyTorch]](https://github.com/sunxm2357/TwoStreamVAN/) [[Video]](https://www.youtube.com/watch?v=mIG0WXolM7A&t=3110s)
@@ -64,6 +72,10 @@ A curated list of ***Video Generation*** papers and resources.
 **A Good Image Generator Is What You Need for High-Resolution Video Synthesis.**<br>
 *Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov.*<br>
 *ICLR 2021.* [[PDF]](https://arxiv.org/pdf/2104.15069.pdf) [[Project]](https://bluer555.github.io/MoCoGAN-HD/) [[Official PyTorch]](https://github.com/snap-research/MoCoGAN-HD) [[Talk]](https://papertalk.org/papertalks/29015) [[Slide]](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2810-a_good_image.pdf)
+
+**Self-Supervised Video GANs: Learning for Appearance Consistency and Motion Coherency.**<br>
+*Sangeek Hyun, Jihwan Kim, Jae-Pil Heo.*<br>
+*CVPR 2021.* [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hyun_Self-Supervised_Video_GANs_Learning_for_Appearance_Consistency_and_Motion_Coherency_CVPR_2021_paper.pdf)
 
 **InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation.**<br>
 *Yaohui Wang, François Brémond, Antitza Dantcheva.*<br>
