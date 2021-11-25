@@ -405,6 +405,10 @@ A curated list of ***Video Generation*** papers and resources.
 *Paul Henderson, Christoph H. Lampert.*<br>
 *NeurIPS 2020.* [[PDF]](https://papers.nips.cc/paper/2020/file/20125fd9b2d43e340a35fb0278da235d-Paper.pdf) [[Official TensorFlow]](https://github.com/pmh47/o3v)
 
+**Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample.**<br>
+*Shir Gur, Sagie Benaim, Lior Wolf.*<br>
+*NeurIPS 2020.* [[PDF]](https://arxiv.org/pdf/2006.12226.pdf) [[Official PyTorch]](https://github.com/shirgur/hp-vae-gan)
+
 **Diverse Video Generation using a Gaussian Process Trigger .**<br>
 *Gaurav Shrivastava, Abhinav Shrivastava.*<br>
 *ICLR 2021.* [[PDF]](https://openreview.net/pdf?id=Qm7R_SdqTpT) [[Project]](http://www.cs.umd.edu/~gauravsh/dvg.html) [[Official PyTorch]](https://github.com/shgaurav1/DVG)
